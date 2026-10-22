@@ -2,18 +2,18 @@
 
 > 每日生成前先查此文件，严禁重复使用此前出现过的单词。
 
-## 2026-10-20（Day 1）
+## 2026-10-20 (Day 1 — 早期草稿版)
 
 alleviate, ambiguous, comprehensive, detrimental, deteriorate, exacerbate, feasible, inevitable, mitigate, mundane, plausible, prominent, redundant, lucrative, phenomenal, preliminary, susceptible, ubiquitous, viable, coherent, diligent, empirical, intriguing, notorious, obsolete, pervasive, rigorous, scarce, tangible, vulnerable
 
-## 历史词表 · ielts-vocab-day-1.md（新增词）
+## Day 1 (正式版 ielts-vocab-day-1.md)
 
-acquire, sustainable, fluctuate, curriculum, biodiversity, eloquent, resilient, innovation, plummet, literacy, catalyst, stagnant, compulsory, contaminate, meticulous, endeavor, deplete, cosmopolitan, presuppose, sedentary, unprecedented, consolidate, proliferate, ambivalent, surge, diminish, compelling
+acquire, sustainable, fluctuate, mitigate, curriculum, biodiversity, eloquent, exacerbate, resilient, innovation, plummet, literacy, catalyst, stagnant, compulsory, contaminate, meticulous, endeavor, deplete, cosmopolitan, presuppose, sedentary, unprecedented, consolidate, proliferate, ambivalent, surge, pervasive, diminish, compelling
 
-## 历史词表 · ielts-vocab-day-2.md（新增词）
+## Day 2 (正式版 ielts-vocab-day-2.md)
 
-advocate, infrastructure, deliberate, transaction, pragmatic, predominant, scrutinize, incentive, envisage, elicit, implement, predominance, paradigm, marginal, aggravate, pivotal, unparalleled, allocate, intrinsic, preclude, affluent, circumvent, proliferation, presumptuous
+advocate, deteriorate, infrastructure, deliberate, transaction, pragmatic, predominant, scrutinize, incentive, envisage, tangible, elicit, ubiquitous, implement, predominance, plausible, paradigm, marginal, aggravate, pivotal, unparalleled, allocate, intrinsic, preclude, affluent, circumvent, rigorous, proliferation, viable, presumptuous
 
-## 2026-10-21（Day 3）
+## Day 3 (正式版 ielts-vocab-day-3.md)
 
-accommodate, accumulate, adverse, amplify, arbitrary, articulate, ascertain, attribute, authentic, bias, cognitive, compensate, complement, comply, controversial, correlate, credible, derive, distort, diverse, dynamic, elaborate, eliminate, endorse, erode, exploit, facilitate, foster, formulate, hinder
+robust, ameliorate, emergent, commodity, demographic, indigenous, hypothesis, analogous, perceive, undermine, reinforce, disparity, legitimate, conscientious, articulate, prevalent, innate, escalate, integrate, predispose, accommodate, disregard, underpin, notion, audit, propagate, impede, congruent, oscillate, renewable
