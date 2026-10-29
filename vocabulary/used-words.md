@@ -17,3 +17,7 @@ advocate, deteriorate, infrastructure, deliberate, transaction, pragmatic, predo
 ## Day 3 (正式版 ielts-vocab-day-3.md)
 
 robust, ameliorate, emergent, commodity, demographic, indigenous, hypothesis, analogous, perceive, undermine, reinforce, disparity, legitimate, conscientious, articulate, prevalent, innate, escalate, integrate, predispose, accommodate, disregard, underpin, notion, audit, propagate, impede, congruent, oscillate, renewable
+
+## Day 4 · 2026-10-29 (ielts-vocab-day-4.md)
+
+abundant, anticipate, assess, autonomy, boost, chronic, conserve, contemporary, crucial, cultivate, decline, degrade, deprive, detect, dilemma, disrupt, enhance, entitle, ethical, evoke, fundamental, hierarchy, immune, impair, impose, incorporate, indispensable, inhibit, insight, intervene
