@@ -21,3 +21,29 @@ robust, ameliorate, emergent, commodity, demographic, indigenous, hypothesis, an
 ## Day 4 · 2026-10-29 (ielts-vocab-day-4.md)
 
 abundant, anticipate, assess, autonomy, boost, chronic, conserve, contemporary, crucial, cultivate, decline, degrade, deprive, detect, dilemma, disrupt, enhance, entitle, ethical, evoke, fundamental, hierarchy, immune, impair, impose, incorporate, indispensable, inhibit, insight, intervene
+## Day 4 (2026-11-02 · ielts-vocab-day-4.md)
+
+adjacent, aesthetic, anticipate, apparent, assess, attain, coincide, commence, compatible, conceive, concurrent, confine, conform, considerable, constitute, constrain, contemplate, contradict, converge, conversely, crucial, cumulative, deficit, denote, deprive, designate, deviate, discriminate, displace, dispute
+## 2026-10-21 (Day 3 草稿版)
+
+accommodate, accumulate, adverse, amplify, arbitrary, articulate, ascertain, attribute, authentic, bias, cognitive, compensate, complement, comply, controversial, correlate, credible, derive, distort, diverse, dynamic, elaborate, eliminate, endorse, erode, exploit, facilitate, foster, formulate, hinder
+
+## Day 4 (正式版 ielts-vocab-day-4.md — 2026-10-31)
+
+subsidy, emission, habitat, conservation, congestion, migrate, revenue, expenditure, recession, entrepreneur, productivity, automation, algorithm, surveillance, anonymity, ethical, dilemma, consensus, impartial, opponent, corroborate, substantiate, qualitative, threshold, negligible, disproportionate, plateau, soar, slump, curb
+## Day 4 (正式版 ielts-vocab-day-4.md) — 2026-10-28
+
+adversity, aesthetic, anomaly, arbitrary, attain, attribute, autonomy, benevolent, bolster, cohesive, compensate, complement, conducive, conspicuous, constrain, contemplate, criterion, culminate, deem, deficiency, denote, deprive, derive, devise, dispel, disrupt, dubious, dwindle, entail, jeopardise
+## Day 4 (正式版 ielts-vocab-day-4.md, 2026-10-30)
+
+adverse, erode, jeopardize, yield, threshold, magnitude, negligible, cumulative, discrepancy, proportion, deprive, foster, facilitate, obstacle, hierarchy, compatible, incur, endorse, arbitrary, impartial, intervene, inhibit, reluctant, skeptical, subtle, superficial, profound, conspicuous, paradox, undergo
+## Day 4 (vocabulary/2026-10-27.md)
+
+acknowledge, assess, chronic, confine, consensus, conserve, contemporary, contradict, conventional, cultivate, curb, dilemma, disrupt, distinct, dominate, enhance, entail, ethical, explicit, fundamental, hierarchy, holistic, impair, impose, incorporate, induce, inhibit, inherent, intervene, thrive
+## 2026-10-21 批次（vocabulary/2026-10-21.md）
+
+accommodate, accumulate, adverse, amplify, arbitrary, articulate, ascertain, attribute, authentic, bias, cognitive, compensate, complement, comply, controversial, correlate, credible, derive, distort, diverse, dynamic, elaborate, eliminate, endorse, erode, exploit, facilitate, foster, formulate, hinder
+
+## Day 4 (2026-10-25)
+
+abundant, accelerate, acknowledge, aesthetic, allege, anticipate, assess, attain, autonomous, chronic, cite, coincide, commence, competent, confine, conform, consecutive, consensus, considerable, consistent, constrain, contemporary, contradict, conventional, crucial, cultivate, curb, deficiency, deprive, detect
