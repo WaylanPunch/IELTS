@@ -21,3 +21,10 @@ robust, ameliorate, emergent, commodity, demographic, indigenous, hypothesis, an
 ## Day 4 (vocabulary/2026-10-27.md)
 
 acknowledge, assess, chronic, confine, consensus, conserve, contemporary, contradict, conventional, cultivate, curb, dilemma, disrupt, distinct, dominate, enhance, entail, ethical, explicit, fundamental, hierarchy, holistic, impair, impose, incorporate, induce, inhibit, inherent, intervene, thrive
+## 2026-10-21 批次（vocabulary/2026-10-21.md）
+
+accommodate, accumulate, adverse, amplify, arbitrary, articulate, ascertain, attribute, authentic, bias, cognitive, compensate, complement, comply, controversial, correlate, credible, derive, distort, diverse, dynamic, elaborate, eliminate, endorse, erode, exploit, facilitate, foster, formulate, hinder
+
+## Day 4 (2026-10-25)
+
+abundant, accelerate, acknowledge, aesthetic, allege, anticipate, assess, attain, autonomous, chronic, cite, coincide, commence, competent, confine, conform, consecutive, consensus, considerable, consistent, constrain, contemporary, contradict, conventional, crucial, cultivate, curb, deficiency, deprive, detect
