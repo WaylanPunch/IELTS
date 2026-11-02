@@ -18,6 +18,9 @@ advocate, deteriorate, infrastructure, deliberate, transaction, pragmatic, predo
 
 robust, ameliorate, emergent, commodity, demographic, indigenous, hypothesis, analogous, perceive, undermine, reinforce, disparity, legitimate, conscientious, articulate, prevalent, innate, escalate, integrate, predispose, accommodate, disregard, underpin, notion, audit, propagate, impede, congruent, oscillate, renewable
 
+## Day 4 (2026-11-02 · ielts-vocab-day-4.md)
+
+adjacent, aesthetic, anticipate, apparent, assess, attain, coincide, commence, compatible, conceive, concurrent, confine, conform, considerable, constitute, constrain, contemplate, contradict, converge, conversely, crucial, cumulative, deficit, denote, deprive, designate, deviate, discriminate, displace, dispute
 ## 2026-10-21 (Day 3 草稿版)
 
 accommodate, accumulate, adverse, amplify, arbitrary, articulate, ascertain, attribute, authentic, bias, cognitive, compensate, complement, comply, controversial, correlate, credible, derive, distort, diverse, dynamic, elaborate, eliminate, endorse, erode, exploit, facilitate, foster, formulate, hinder
