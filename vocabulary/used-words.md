@@ -21,3 +21,16 @@ robust, ameliorate, emergent, commodity, demographic, indigenous, hypothesis, an
 ## Day 4 (正式版 ielts-vocab-day-4.md) — 2026-10-28
 
 adversity, aesthetic, anomaly, arbitrary, attain, attribute, autonomy, benevolent, bolster, cohesive, compensate, complement, conducive, conspicuous, constrain, contemplate, criterion, culminate, deem, deficiency, denote, deprive, derive, devise, dispel, disrupt, dubious, dwindle, entail, jeopardise
+## Day 4 (正式版 ielts-vocab-day-4.md, 2026-10-30)
+
+adverse, erode, jeopardize, yield, threshold, magnitude, negligible, cumulative, discrepancy, proportion, deprive, foster, facilitate, obstacle, hierarchy, compatible, incur, endorse, arbitrary, impartial, intervene, inhibit, reluctant, skeptical, subtle, superficial, profound, conspicuous, paradox, undergo
+## Day 4 (vocabulary/2026-10-27.md)
+
+acknowledge, assess, chronic, confine, consensus, conserve, contemporary, contradict, conventional, cultivate, curb, dilemma, disrupt, distinct, dominate, enhance, entail, ethical, explicit, fundamental, hierarchy, holistic, impair, impose, incorporate, induce, inhibit, inherent, intervene, thrive
+## 2026-10-21 批次（vocabulary/2026-10-21.md）
+
+accommodate, accumulate, adverse, amplify, arbitrary, articulate, ascertain, attribute, authentic, bias, cognitive, compensate, complement, comply, controversial, correlate, credible, derive, distort, diverse, dynamic, elaborate, eliminate, endorse, erode, exploit, facilitate, foster, formulate, hinder
+
+## Day 4 (2026-10-25)
+
+abundant, accelerate, acknowledge, aesthetic, allege, anticipate, assess, attain, autonomous, chronic, cite, coincide, commence, competent, confine, conform, consecutive, consensus, considerable, consistent, constrain, contemporary, contradict, conventional, crucial, cultivate, curb, deficiency, deprive, detect
