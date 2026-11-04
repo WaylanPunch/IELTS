@@ -58,3 +58,7 @@ abundant, accelerate, acknowledge, aesthetic, allege, anticipate, assess, attain
 ## Day 5 (2026-11-03 · ielts-vocab-day-5.md)
 
 albeit, aspire, assert, assimilate, augment, beneficial, cater, cease, contend, counterpart, deduce, deploy, disseminate, drastic, durable, embark, eradicate, exert, flourish, hamper, heritage, imperative, infer, intricate, legacy, mandate, momentum, norm, outlook, widespread
+
+## Day 6 (2026-11-04 · ielts-vocab-day-6.md)
+
+abstain, acute, adept, alienate, amend, ample, apathy, appease, arduous, astute, averse, barren, belittle, bleak, blunt, breach, brittle, candid, concise, condense, contempt, contentious, cordial, cursory, daunting, dearth, debunk, deter, deplore, discreet
