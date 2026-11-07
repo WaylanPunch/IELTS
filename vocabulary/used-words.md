@@ -63,6 +63,11 @@ albeit, aspire, assert, assimilate, augment, beneficial, cater, cease, contend, 
 
 abstain, acute, adept, alienate, amend, ample, apathy, appease, arduous, astute, averse, barren, belittle, bleak, blunt, breach, brittle, candid, concise, condense, contempt, contentious, cordial, cursory, daunting, dearth, debunk, deter, deplore, discreet
 
+## Day 7 (2026-11-06 · ielts-vocab-day-7.md)
+
+abolish, adhere, apprehensive, avid, burden, censor, census, combat, complacent, comprise, conceal, confront, cope, cumbersome, curtail, depict, dire, disclose, domain, drought, embrace, enforce, epidemic, erratic, evolve, exceed, exorbitant, expertise, extinct, markedly
+
+> 注：经全文扫描发现 ielts-vocab-day-4.md 中混有未登记批次，其中 bureaucracy 曾作为正式词条出现（2026-11-06 核查）。后续生成前除查本表外，建议对候选词做一次 headword 级全文扫描。
 ## Day 4（2026-10-23 · ielts-vocab-day-4.md 第 2316 行起，补录批次）
 
 aesthetic, anticipate, apparent, assess, attain, autonomy, bureaucracy, capacity, collaborate, compatible, confine, consent, constitute, crucial, cultivate, deficit, deter, dilemma, discriminate, disrupt, distinct, dominate, emit, enhance, entail, evoke, longevity, subsidy, threshold, vocational
