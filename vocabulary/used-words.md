@@ -62,3 +62,11 @@ albeit, aspire, assert, assimilate, augment, beneficial, cater, cease, contend, 
 ## Day 6 (2026-11-04 · ielts-vocab-day-6.md)
 
 abstain, acute, adept, alienate, amend, ample, apathy, appease, arduous, astute, averse, barren, belittle, bleak, blunt, breach, brittle, candid, concise, condense, contempt, contentious, cordial, cursory, daunting, dearth, debunk, deter, deplore, discreet
+
+## Day 4（2026-10-23 · ielts-vocab-day-4.md 第 2316 行起，补录批次）
+
+aesthetic, anticipate, apparent, assess, attain, autonomy, bureaucracy, capacity, collaborate, compatible, confine, consent, constitute, crucial, cultivate, deficit, deter, dilemma, discriminate, disrupt, distinct, dominate, emit, enhance, entail, evoke, longevity, subsidy, threshold, vocational
+
+## Day 7 (2026-11-07 · ielts-vocab-day-7.md)
+
+adhere, adolescent, agitate, ailment, anecdote, aptitude, archaic, ascribe, austerity, avert, bewilder, blatant, hostile, burgeon, censorship, civic, coerce, colossal, compassion, complacent, compound, comprise, compromise, conceal, concede, confront, curtail, convey, correspond, counteract
