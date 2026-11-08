@@ -75,3 +75,7 @@ aesthetic, anticipate, apparent, assess, attain, autonomy, bureaucracy, capacity
 ## Day 7 (2026-11-07 · ielts-vocab-day-7.md)
 
 adhere, adolescent, agitate, ailment, anecdote, aptitude, archaic, ascribe, austerity, avert, bewilder, blatant, hostile, burgeon, censorship, civic, coerce, colossal, compassion, complacent, compound, comprise, compromise, conceal, concede, confront, curtail, convey, correspond, counteract
+
+## Day 8 (2026-11-08 · ielts-vocab-day-8.md)
+
+abate, accolade, acumen, adamant, admonish, affable, allegiance, altruistic, amicable, antagonism, antidote, assiduous, auspicious, authoritative, benign, bizarre, blunder, buoyant, calamity, camaraderie, capitulate, castigate, caveat, charisma, tenacious, testament, volatile, pinnacle, prestige, exemplary
