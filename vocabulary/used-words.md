@@ -79,3 +79,7 @@ adhere, adolescent, agitate, ailment, anecdote, aptitude, archaic, ascribe, aust
 ## Day 8 (2026-11-08 · ielts-vocab-day-8.md)
 
 abate, accolade, acumen, adamant, admonish, affable, allegiance, altruistic, amicable, antagonism, antidote, assiduous, auspicious, authoritative, benign, bizarre, blunder, buoyant, calamity, camaraderie, capitulate, castigate, caveat, charisma, tenacious, testament, volatile, pinnacle, prestige, exemplary
+
+## Day 9 (2026-11-09 · ielts-vocab-day-9.md)
+
+accrue, backlash, buttress, entrenched, exaggerate, galvanize, hazardous, heed, imminent, impoverished, lavish, levy, obliterate, obscure, ominous, outweigh, permeate, proficient, proximity, rampant, relinquish, retaliate, scrupulous, sporadic, squander, stifle, thwart, turmoil, versatile, wary
