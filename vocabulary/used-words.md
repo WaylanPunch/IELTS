@@ -83,3 +83,7 @@ abate, accolade, acumen, adamant, admonish, affable, allegiance, altruistic, ami
 ## Day 9 (2026-11-09 · ielts-vocab-day-9.md)
 
 accrue, backlash, buttress, entrenched, exaggerate, galvanize, hazardous, heed, imminent, impoverished, lavish, levy, obliterate, obscure, ominous, outweigh, permeate, proficient, proximity, rampant, relinquish, retaliate, scrupulous, sporadic, squander, stifle, thwart, turmoil, versatile, wary
+
+## Day 10 (2026-11-10 · ielts-vocab-day-10.md)
+
+absurd, accountable, accustom, boycott, characteristic, dedicate, defect, distract, emphasize, engage, fabric, fatal, govern, highlight, ideology, isolate, mechanism, mindset, narrative, negotiate, outcome, overwhelm, priority, privilege, pursue, relevant, scope, tendency, virtue, welfare
