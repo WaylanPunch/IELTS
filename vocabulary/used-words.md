@@ -87,3 +87,7 @@ accrue, backlash, buttress, entrenched, exaggerate, galvanize, hazardous, heed, 
 ## Day 10 (2026-11-10 · ielts-vocab-day-10.md)
 
 absurd, accountable, accustom, boycott, characteristic, dedicate, defect, distract, emphasize, engage, fabric, fatal, govern, highlight, ideology, isolate, mechanism, mindset, narrative, negotiate, outcome, overwhelm, priority, privilege, pursue, relevant, scope, tendency, virtue, welfare
+
+## Day 11 (2026-11-11 · ielts-vocab-day-11.md)
+
+assemble, classify, construct, consult, contrast, coordinate, descend, dimension, element, equip, ethnic, hesitate, horizon, impress, inform, instance, instruct, interact, investigate, manipulate, manufacture, navigate, obligation, permanent, potential, profession, quantify, recommend, specific, whereas
