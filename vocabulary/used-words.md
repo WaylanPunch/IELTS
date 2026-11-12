@@ -91,3 +91,6 @@ absurd, accountable, accustom, boycott, characteristic, dedicate, defect, distra
 ## Day 11 (2026-11-12 · ielts-vocab-day-11.md)
 
 accessible, accompany, accurate, adapt, alter, alternative, ambitious, analyse, annual, approach, appropriate, approximately, assume, attitude, available, aware, barrier, capable, category, circumstance, conclude, consequence, consume, contribute, critical, demonstrate, determine, efficient, essential, establish
+## Day 11 (2026-11-11 · ielts-vocab-day-11.md)
+
+assemble, classify, construct, consult, contrast, coordinate, descend, dimension, element, equip, ethnic, hesitate, horizon, impress, inform, instance, instruct, interact, investigate, manipulate, manufacture, navigate, obligation, permanent, potential, profession, quantify, recommend, specific, whereas
