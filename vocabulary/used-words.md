@@ -98,3 +98,6 @@ assemble, classify, construct, consult, contrast, coordinate, descend, dimension
 ## Day 12 (2026-11-14 · ielts-vocab-day-12.md)
 
 anxiety, appetite, appreciate, arise, assure, brilliant, bulk, channel, clarity, classic, cluster, coalition, colleague, courage, ecological, implication, optimal, optimism, rationale, recruit, refine, segment, spectrum, stipulate, tedious, transform, transparent, tremendous, ultimate, utilise
+## Day 12 (2026-11-13 · ielts-vocab-day-12.md)
+
+bilateral, blight, breed, bribe, brisk, brutal, callous, cardinal, casualty, cherish, chronological, cluster, coalition, coarse, coexist, commerce, contingent, counsel, defer, dichotomy, divergent, efficacy, emulate, engender, enumerate, ephemeral, equitable, futile, haphazard, harness
