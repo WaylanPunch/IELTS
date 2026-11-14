@@ -94,3 +94,7 @@ accessible, accompany, accurate, adapt, alter, alternative, ambitious, analyse, 
 ## Day 11 (2026-11-11 · ielts-vocab-day-11.md)
 
 assemble, classify, construct, consult, contrast, coordinate, descend, dimension, element, equip, ethnic, hesitate, horizon, impress, inform, instance, instruct, interact, investigate, manipulate, manufacture, navigate, obligation, permanent, potential, profession, quantify, recommend, specific, whereas
+
+## Day 12 (2026-11-14 · ielts-vocab-day-12.md)
+
+anxiety, appetite, appreciate, arise, assure, brilliant, bulk, channel, clarity, classic, cluster, coalition, colleague, courage, ecological, implication, optimal, optimism, rationale, recruit, refine, segment, spectrum, stipulate, tedious, transform, transparent, tremendous, ultimate, utilise
