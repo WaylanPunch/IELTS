@@ -101,3 +101,7 @@ anxiety, appetite, appreciate, arise, assure, brilliant, bulk, channel, clarity,
 ## Day 12 (2026-11-13 · ielts-vocab-day-12.md)
 
 bilateral, blight, breed, bribe, brisk, brutal, callous, cardinal, casualty, cherish, chronological, cluster, coalition, coarse, coexist, commerce, contingent, counsel, defer, dichotomy, divergent, efficacy, emulate, engender, enumerate, ephemeral, equitable, futile, haphazard, harness
+
+## Day 13 (2026-11-16 · ielts-vocab-day-13.md)
+
+aggregate, amenable, appraise, attest, consequent, conviction, delineate, discern, dispose, dissent, endow, equilibrium, exemplify, expedite, fallacy, forge, formidable, frugal, gauge, implicit, impetus, indifferent, indulge, ingenious, instigate, integral, invoke, prone, prospect, remedy
