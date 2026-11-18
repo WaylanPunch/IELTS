@@ -105,3 +105,7 @@ bilateral, blight, breed, bribe, brisk, brutal, callous, cardinal, casualty, che
 ## Day 13 (2026-11-16 · ielts-vocab-day-13.md)
 
 aggregate, amenable, appraise, attest, consequent, conviction, delineate, discern, dispose, dissent, endow, equilibrium, exemplify, expedite, fallacy, forge, formidable, frugal, gauge, implicit, impetus, indifferent, indulge, ingenious, instigate, integral, invoke, prone, prospect, remedy
+
+## Day 14 (2026-11-18 · ielts-vocab-day-14.md)
+
+advent, affirm, agile, alliance, allude, amenity, apparatus, appeal, applicable, apt, arena, array, ascend, asset, assign, atypical, avenue, backdrop, ballot, blueprint, blur, breakthrough, brink, buffer, bypass, accord, administer, allowance, aftermath, altitude
