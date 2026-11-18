@@ -109,3 +109,6 @@ aggregate, amenable, appraise, attest, consequent, conviction, delineate, discer
 ## Day 14 (2026-11-18 · ielts-vocab-day-14.md)
 
 advent, affirm, agile, alliance, allude, amenity, apparatus, appeal, applicable, apt, arena, array, ascend, asset, assign, atypical, avenue, backdrop, ballot, blueprint, blur, breakthrough, brink, buffer, bypass, accord, administer, allowance, aftermath, altitude
+## Day 14 (2026-11-17 · ielts-vocab-day-14.md)
+
+compile, delegate, immerse, inject, inquire, lease, linger, motivate, opt, proclaim, propel, propose, recur, register, render, renovate, reproduce, reside, resort, resume, retrieve, revive, virtual, precaution, prerequisite, protocol, proposition, segregation, allude, confide
