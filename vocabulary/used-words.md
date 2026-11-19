@@ -112,3 +112,7 @@ advent, affirm, agile, alliance, allude, amenity, apparatus, appeal, applicable,
 ## Day 14 (2026-11-17 · ielts-vocab-day-14.md)
 
 compile, delegate, immerse, inject, inquire, lease, linger, motivate, opt, proclaim, propel, propose, recur, register, render, renovate, reproduce, reside, resort, resume, retrieve, revive, virtual, precaution, prerequisite, protocol, proposition, segregation, allude, confide
+
+## Day 15 (2026-11-19 · ielts-vocab-day-15.md)
+
+ecosystem, deforestation, pollutant, inequality, prejudice, urbanisation, cohort, obesity, nutrition, metabolism, tuition, syllabus, pedagogy, extracurricular, workforce, outsourcing, turnover, inflation, monopoly, verdict, legislation, deterrent, rehabilitate, propaganda, coverage, ritual, folklore, methodology, quantitative, validity
