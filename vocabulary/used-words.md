@@ -116,3 +116,7 @@ compile, delegate, immerse, inject, inquire, lease, linger, motivate, opt, procl
 ## Day 15 (2026-11-19 · ielts-vocab-day-15.md)
 
 ecosystem, deforestation, pollutant, inequality, prejudice, urbanisation, cohort, obesity, nutrition, metabolism, tuition, syllabus, pedagogy, extracurricular, workforce, outsourcing, turnover, inflation, monopoly, verdict, legislation, deterrent, rehabilitate, propaganda, coverage, ritual, folklore, methodology, quantitative, validity
+
+## Day 16 (2026-11-20 · ielts-vocab-day-16.md)
+
+catastrophe, cohesion, compel, competence, condemn, discretion, disperse, doctrine, eligible, endure, fragile, framework, glimpse, immense, integrity, interpret, milestone, mutual, nurture, offset, perspective, prompt, provoke, radical, scrutiny, stereotype, substantial, tackle, tolerate, vital
